@@ -2,7 +2,7 @@
   "name": "@htmx/template-element",
   "version": "0.0.0",
   "description": "A custom element for adding a toolbar to a textarea for markdown editing.",
-  "repository": "zeiss/template-element",
+  "repository": "katallaxie/template-custom-element",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
